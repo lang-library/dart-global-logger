@@ -1,0 +1,16 @@
+name: global_logger
+description: "global_logger package project"
+version: 0.0.1
+homepage:
+repository: https://github.com/lang-library/dart-global-logger
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  output: ^1.0.0
+  logger: ^2.5.0
+
+dev_dependencies:
+  lints: ^5.1.1
+  test: ^1.25.15
